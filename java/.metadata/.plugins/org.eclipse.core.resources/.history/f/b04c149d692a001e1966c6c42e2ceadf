@@ -1,8 +1,0 @@
-package oopmytest;
-
-public class Insan {
-	String isim;
-    int yas;
-    double boy;
-    double kilo;
-}
