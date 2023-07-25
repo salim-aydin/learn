@@ -1,8 +1,0 @@
-package oopmytest;
-
-public class Erkek extends Insan {
-	
-    boolean sakalVarMi;
-
-
-}

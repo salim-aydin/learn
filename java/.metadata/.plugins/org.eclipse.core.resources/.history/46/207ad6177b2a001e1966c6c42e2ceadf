@@ -1,8 +1,0 @@
-package ooptest;
-
-public class Bosnesne {
-	public void Bos() {
-		
-		System.out.println("Amk bu olduysa tamam anladım :D");
-	}
-}
