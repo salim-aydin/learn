@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Insan salim = new Insan();
+		salim.ad = "Salim";
+		salim.soyadi = "Aydin";
+		salim.boy = "185";
+		salim.renk = "beyaz";
+		
+		
+	}
+
+}

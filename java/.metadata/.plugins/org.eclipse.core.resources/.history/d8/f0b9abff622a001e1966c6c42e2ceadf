@@ -1,0 +1,5 @@
+package oopmytest;
+
+public class Kadin extends Insan {
+	
+}

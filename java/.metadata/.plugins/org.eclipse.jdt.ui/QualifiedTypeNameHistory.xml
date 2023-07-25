@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.awt.Window.Type"/>
+    <fullyQualifiedTypeName name="oop3.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="oop3.Product"/>
+    <fullyQualifiedTypeName name="oop6inheritance.EmployeeManager"/>
+    <fullyQualifiedTypeName name="oop6inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="oop7inheritancegelismis.KrediUI"/>
+    <fullyQualifiedTypeName name="ooptest.Bosnesne"/>
+</qualifiedTypeNameHistroy>

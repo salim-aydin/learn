@@ -1,0 +1,15 @@
+import java.awt.Window.Type;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	 String mesaj1 = new String();
+	 
+	 mesaj1 = "hello";
+	 
+	 System.out.println(mesaj1);
+	}
+
+}

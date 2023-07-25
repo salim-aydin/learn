@@ -1,0 +1,10 @@
+package ogrenme;
+
+public class Insan {
+
+	String ad;
+	String soyad;
+	String sehir;
+	int yas;
+	
+}

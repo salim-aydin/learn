@@ -1,0 +1,9 @@
+package oop6inheritance;
+
+public class CustomerManager {
+	
+	public void List() {
+		System.out.println("Müşteri Listelendi");
+	}
+
+}

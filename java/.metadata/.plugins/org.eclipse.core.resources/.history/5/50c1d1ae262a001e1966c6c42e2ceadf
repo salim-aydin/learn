@@ -1,0 +1,10 @@
+
+public class Insan {
+	
+	String ad;
+	String soyadi;
+	String boy;
+	String renk;
+	
+	
+}
